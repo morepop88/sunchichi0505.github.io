@@ -20,7 +20,7 @@ title                    : "Sunchichiの落書き"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sunchichi"
-description              : "An amazing website."
+description              : "Sunchichi Blog"
 url                      : "https://sunchichi0505.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
